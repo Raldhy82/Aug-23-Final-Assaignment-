@@ -1,0 +1,38 @@
+.container{
+    width: 30%;
+    min-width: 480px;
+    background-color: rgb(238, 152, 83);
+    padding: 25px 25px;
+position: absolute;
+transform: translate(-50%,-50%);
+left: 20%;
+TOP: 25%;
+
+border-radius: 8px;
+box-shadow: 15px 20px 25px rgba(235, 252, 4, 0.897);
+}
+.container{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+p{
+text-align: left;
+}
+body
+{
+background-color: rgb(96, 247, 247);
+
+background-size: cover;
+
+
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+
+}
+header{
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+
+}
